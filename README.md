@@ -4,4 +4,4 @@ I am creating this repository to practice javascript programming language and al
 
 Javascript is lightweight, object-oriented, cross platform programming language
 
-![](images/Screen%20Shot%202020-02-04%20at%2011.45.27%20PM.png) 
+![](images/Screen%20Shot%202020-02-05%20at%2012.48.14%20AM.png) 
